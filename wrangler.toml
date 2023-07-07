@@ -1,0 +1,5 @@
+name = "otel-test"
+main = "src/index.ts"
+compatibility_date = "2023-07-07"
+compatibility_flags = [ "nodejs_compat" ]
+
